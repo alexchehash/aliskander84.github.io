@@ -1,0 +1,50 @@
+body {
+  font-family: Roboto, sans-serif;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#app {
+
+}
+
+.btn {
+  padding: 5px 8px;
+}
+
+.shapes-count {
+  border: 2px solid blue;
+  width: 140px;
+  padding: 5px;
+  display: inline-block;
+}
+
+.shapes-count__number {
+  font-weight: 700;
+}
+
+.shapes-generation {
+  border: 2px solid blue;
+  width: 210px;
+  padding: 5px;
+  display: inline-block;
+}
+
+.shapes-generation__number {
+  font-weight: 700;
+}
+
+.gravity {
+  border: 2px solid blue;
+  width: 120px;
+  padding: 5px;
+  display: inline-block;
+}
+
+.gravity__value {
+  font-weight: 700;
+}
