@@ -1,0 +1,37 @@
+{
+  "files": {
+    "static/js/0.e6051e89.chunk.js": "/magifta1/static/js/0.e6051e89.chunk.js",
+    "static/js/0.e6051e89.chunk.js.map": "/magifta1/static/js/0.e6051e89.chunk.js.map",
+    "main.css": "/magifta1/static/css/main.be1c9e08.chunk.css",
+    "main.js": "/magifta1/static/js/main.261dafde.chunk.js",
+    "main.js.map": "/magifta1/static/js/main.261dafde.chunk.js.map",
+    "runtime-main.js": "/magifta1/static/js/runtime-main.b4084fd8.js",
+    "runtime-main.js.map": "/magifta1/static/js/runtime-main.b4084fd8.js.map",
+    "static/js/3.57064e71.chunk.js": "/magifta1/static/js/3.57064e71.chunk.js",
+    "static/js/3.57064e71.chunk.js.map": "/magifta1/static/js/3.57064e71.chunk.js.map",
+    "static/js/4.e880d5d5.chunk.js": "/magifta1/static/js/4.e880d5d5.chunk.js",
+    "static/js/4.e880d5d5.chunk.js.map": "/magifta1/static/js/4.e880d5d5.chunk.js.map",
+    "static/js/5.67f172dd.chunk.js": "/magifta1/static/js/5.67f172dd.chunk.js",
+    "static/js/5.67f172dd.chunk.js.map": "/magifta1/static/js/5.67f172dd.chunk.js.map",
+    "static/js/6.8100aa46.chunk.js": "/magifta1/static/js/6.8100aa46.chunk.js",
+    "static/js/6.8100aa46.chunk.js.map": "/magifta1/static/js/6.8100aa46.chunk.js.map",
+    "static/js/7.ff05b385.chunk.js": "/magifta1/static/js/7.ff05b385.chunk.js",
+    "static/js/7.ff05b385.chunk.js.map": "/magifta1/static/js/7.ff05b385.chunk.js.map",
+    "static/js/8.e1dd7a4e.chunk.js": "/magifta1/static/js/8.e1dd7a4e.chunk.js",
+    "static/js/8.e1dd7a4e.chunk.js.map": "/magifta1/static/js/8.e1dd7a4e.chunk.js.map",
+    "static/js/9.c844c9b8.chunk.js": "/magifta1/static/js/9.c844c9b8.chunk.js",
+    "static/js/9.c844c9b8.chunk.js.map": "/magifta1/static/js/9.c844c9b8.chunk.js.map",
+    "index.html": "/magifta1/index.html",
+    "precache-manifest.aa65d9df9a9a553f1a1beb292251aacf.js": "/magifta1/precache-manifest.aa65d9df9a9a553f1a1beb292251aacf.js",
+    "service-worker.js": "/magifta1/service-worker.js",
+    "static/css/main.be1c9e08.chunk.css.map": "/magifta1/static/css/main.be1c9e08.chunk.css.map",
+    "static/js/3.57064e71.chunk.js.LICENSE.txt": "/magifta1/static/js/3.57064e71.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/magifta1/static/media/Manrope-SemiBold.e1b25f5b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4084fd8.js",
+    "static/js/3.57064e71.chunk.js",
+    "static/css/main.be1c9e08.chunk.css",
+    "static/js/main.261dafde.chunk.js"
+  ]
+}
