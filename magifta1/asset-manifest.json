@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/magifta1/static/css/main.3f6feb31.chunk.css",
+    "main.js": "/magifta1/static/js/main.dd9efdbb.chunk.js",
+    "main.js.map": "/magifta1/static/js/main.dd9efdbb.chunk.js.map",
+    "runtime-main.js": "/magifta1/static/js/runtime-main.ae0981c8.js",
+    "runtime-main.js.map": "/magifta1/static/js/runtime-main.ae0981c8.js.map",
+    "static/css/2.76cf7f4f.chunk.css": "/magifta1/static/css/2.76cf7f4f.chunk.css",
+    "static/js/2.eaaf6318.chunk.js": "/magifta1/static/js/2.eaaf6318.chunk.js",
+    "static/js/2.eaaf6318.chunk.js.map": "/magifta1/static/js/2.eaaf6318.chunk.js.map",
+    "index.html": "/magifta1/index.html",
+    "precache-manifest.73d67ca7f6a3bbf9aca9401999a37f59.js": "/magifta1/precache-manifest.73d67ca7f6a3bbf9aca9401999a37f59.js",
+    "service-worker.js": "/magifta1/service-worker.js",
+    "static/css/2.76cf7f4f.chunk.css.map": "/magifta1/static/css/2.76cf7f4f.chunk.css.map",
+    "static/css/main.3f6feb31.chunk.css.map": "/magifta1/static/css/main.3f6feb31.chunk.css.map",
+    "static/js/2.eaaf6318.chunk.js.LICENSE.txt": "/magifta1/static/js/2.eaaf6318.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/magifta1/static/media/Manrope-SemiBold.e1b25f5b.woff",
+    "static/media/img1.svg": "/magifta1/static/media/img1.4bcc3270.svg",
+    "static/media/img2.svg": "/magifta1/static/media/img2.adf8705d.svg",
+    "static/media/img3.svg": "/magifta1/static/media/img3.632ee12d.svg",
+    "static/media/img4.svg": "/magifta1/static/media/img4.c0e9525c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae0981c8.js",
+    "static/css/2.76cf7f4f.chunk.css",
+    "static/js/2.eaaf6318.chunk.js",
+    "static/css/main.3f6feb31.chunk.css",
+    "static/js/main.dd9efdbb.chunk.js"
+  ]
+}
