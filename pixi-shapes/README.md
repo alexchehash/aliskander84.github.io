@@ -1,2 +1,0 @@
-#PIXI shapes
-- PIXI.js
