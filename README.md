@@ -1,4 +1,4 @@
-# [aliskander84.github.io](https://alexchehash.github.io)
+# [alexchehash.github.io](https://alexchehash.github.io)
 There live built front-end apps
 ## 1. [Random users (React)](https://alexchehash.github.io/react) ([repo](https://github.com/aliskander84/random-users-react))
 - React
